@@ -1,7 +1,8 @@
-baseURL: "https://example.com"
-languageCode: "en-us"
-title: "Hugo Novela"
+baseURL: "https://inuntac.netlify.com"
+languageCode: "it-IT"
+title: "inuntac"
 pygmentsstyle: 'monokai'
+googleAnalytics: "UA-159935292-1"
 
 # Theme settings
 theme: novela
