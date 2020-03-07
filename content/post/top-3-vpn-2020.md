@@ -1,5 +1,5 @@
 +++
-authors = ["Silvio Tacinellli"]
+authors = ["Silvio Tacinelli"]
 date = 2020-03-05T23:00:00Z
 excerpt = "Ecco spiegato a cosa serve una vpn, e quali sono le migliori"
 hero = "/images/VPN.jpg"
