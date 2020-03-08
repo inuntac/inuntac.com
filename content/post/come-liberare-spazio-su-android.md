@@ -24,7 +24,9 @@ Con questi brevi e semplici passi potrai riottenere lo spazio occupato dai file 
 
 **1 - CCleaner**
 
-Questa fantastica app è la stessa che installiamo comunemente sui nostri computer, come riportato nella guida su questo blog [**"Come velocizzare il computer"**](https://inuntac.netlify.com/post/come-velocizzare-il-computer/ "Come velocizzare il computer"). Una volta scaricata basta avviare la ricerca dei file inutili e, una volta completata, eliminarli premendo sul tasto **"Completa la pulizia"**. Questa operazione ci dà modo di avere a disposizione già dello spazio utile per scaricare anche la prossima applicazione. [Clicca qui](https://play.google.com/store/apps/details?id=com.piriform.ccleaner&hl=it "CCleaner") per scaricare dal Google Play Store.
+Questa fantastica app è la stessa che installiamo comunemente sui nostri computer, come riportato nella guida su questo blog [**"Come velocizzare il computer"**](https://inuntac.netlify.com/post/come-velocizzare-il-computer/ "Come velocizzare il computer"). 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage").
+Una volta scaricata basta avviare la ricerca dei file inutili e, una volta completata, eliminarli premendo sul tasto **"Completa la pulizia"**. Questa operazione ci dà modo di avere a disposizione già dello spazio utile per scaricare anche la prossima applicazione. [Clicca qui](https://play.google.com/store/apps/details?id=com.piriform.ccleaner&hl=it "CCleaner") per scaricare dal Google Play Store.
 
 **2 - SD Maid**
 
