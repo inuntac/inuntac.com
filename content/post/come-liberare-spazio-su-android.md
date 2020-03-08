@@ -2,7 +2,7 @@
 authors = ["Silvio Tacinelli"]
 date = 2020-03-07T23:00:00Z
 excerpt = "Problemi di archiviazione su Android? Ecco la soluzione."
-hero = ""
+hero = "/images/app-android.jpg"
 timeToRead = 15
 title = "Come liberare spazio su Android"
 
