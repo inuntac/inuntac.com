@@ -16,10 +16,12 @@ Le app immagazzinano molte informazioni e molti dati i quali nel tempo vanno ad 
 
 **Soluzione**
 
-Con queste due app potrai riottenere lo spazio occupato dai file inutili:
+Con questi brevi e semplici passi potrai riottenere lo spazio occupato dai file inutili:
 
 1. CCleaner
 2. SD Maid
+3. Cancellare documenti inutili
+4. Backup su cloud
 
 **1 - CCleaner**
 
@@ -28,3 +30,11 @@ Questa fantastica app è la stessa che installiamo comunemente sui nostri comput
 **2 - SD Maid**
 
 Questa per me e per altri milioni di utenti è l'applicazione per eccellenza per questo tipo di operazioni. Personalmente la uso da anni e con la versione PRO del costo di **3,69 euro** i vantaggi sono molti. Anche questa app è facile da usare. Una volta aperta e aver acconsentito ai vari permessi che ci chiede, basta premere sul tasto **"Scansiona"** e, a scansione terminata, premere **"Esegui ora"** e il problema è risolto!
+
+**3 - Cancellare documenti inutili**
+
+A volte siamo bombardati di immagini tramite le piattaforme di messaggistica (come Whatsapp o Telegram) che nel lungo andare, occupano gran parte della nostra memoria. Un modo semplice per eliminarle è andare nella galleria del telefono e cancellare tutte quelle immagini  o video che ormai non ci sono più utili.
+
+4 - Backup su cloud
+
+Piattaforme di cloud storage come Google Drive o Dropbox permettono di salvare le nostre foto in un spazio online in modo da non riempire la memoria dei nostri dispositivi. Io vi consigli di attivare l'opzione di backup automatico delle fotografie, usufruendo di **spazio illimitato** per salvare i nostri ricordi in cloud. Una volta effettuato il backup delle foto, possiamo eliminarle dal dispositivo e recuperare molto spazio di archiviazione.
