@@ -3,7 +3,7 @@ languageCode: "it-IT"
 title: "inuntac.com"
 pygmentsstyle: 'monokai'
 googleAnalytics: "UA-159935292-1"
-
+unsafe: false
 # Theme settings
 theme: novela
 paginate: 6
@@ -16,3 +16,8 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
