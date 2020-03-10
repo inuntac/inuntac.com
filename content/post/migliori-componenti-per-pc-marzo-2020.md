@@ -24,6 +24,7 @@ _N.B. I prezzi possono variare e possono essere anche maggiori della cifra indic
 #### **Incominciamo**
 
 <a name="400">Sotto i 400 euro</a>
+
 Personalmente questo è uno dei setup che più ho visto anche da amici, AMD con questi nuovi processori Rayzen ha sorpreso tutti e sta avendo degli ottimi risultati!
 
 ###### **Processore**
