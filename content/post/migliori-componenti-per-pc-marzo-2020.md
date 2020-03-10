@@ -29,5 +29,3 @@ Personalmente questo è uno dei setup che più ho visto anche da amici, AMD con 
 Iniziamo dal processore, il componente che lavorerà nell'elaborare la mole di dati. Ho scelto questo **AMD Ryzen 3 2200G** perché il rapporto qualità prezzo è eccezionale. Offre una potenza di **4 core e 8 thread** con velocità di **3.5 GHz** che permettono di usufruire in al **livello base** di programmi **CAD** e di **elaborazione di immagini**.
 
 Ecco il link di acquisto per Amazon: 
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=inuntac-21&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B079D3DBNM&linkId=c713cb2aa28da511b5140177fb77444a"></iframe>
