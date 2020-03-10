@@ -2,7 +2,7 @@ baseURL: "https://inuntac.netlify.com"
 languageCode: "it-IT"
 title: "inuntac.com"
 pygmentsstyle: 'monokai'
-googleAnalytics: UA-159935292-1
+googleAnalytics: 'UA-159935292-1'
 
 unsafe: false
 # Theme settings
@@ -22,3 +22,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+params:
+  env: 'PUBLIC'
